@@ -1,5 +1,5 @@
 # Crawling-Baidu-Street-View-data  
-Including historical Baidu Street View data(包括百度街景历史数据)  
+Including historical Baidu Street View data(包括百度街景历史数据)
   
 Project Information: crawl Baidu Street View according to geospatial coordinates (crawl all Baidu Street View data in the current coordinate position)  
 Project Benefits: can crawl Baidu Street View data  
