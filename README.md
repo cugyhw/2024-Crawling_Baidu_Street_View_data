@@ -4,7 +4,7 @@ Including historical Baidu Street View data(包括百度街景历史数据)
 Project Information: crawl Baidu Street View according to geospatial coordinates (crawl all Baidu Street View data in the current coordinate position)  
 Project Benefits: can crawl Baidu Street View data  
 Project Details: This project searches for Baidu Street View historical data and latest data by traversing geospatial coordinates one by one.  
-Code to use the premise:  
+Code to use the premise:
 1. Prepare your own geospatial coordinates data, the data should be csv (UTF-8) format, while using the geographic coordinate system;  
 2. If your data is not in csv (UTF-8) format, you can convert your data to that format, for example: shp data imported as csv format data, and use notepad software to convert it to csv (UTF-8) format;  
 3. In order to further improve the efficiency of streetscape crawling, users can extract the building footprint data, the use of building footprint data (building footprint data) is a simple idea: use Arcgis software, click on the “elements of the folding point to point” function, the building footprint data into point data, and then converted to the csv format. csv format.  
